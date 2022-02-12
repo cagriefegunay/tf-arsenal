@@ -1,0 +1,10 @@
+# DO NOT FORGET TO ADD THE PATH OF THIS FILE TO .gitignore AFTER EDITING WITH OR WITHOUT .sample!
+
+token           = "<YOUR-LINODE-API-TOKEN>"
+label           = "<YOUR-PROJECT-LABEL-NAME>"
+image           = "<IMAGE-OR-DISTRO>"
+region          = "<REGION>"
+type            = "<MACHINE-TYPE>"
+authorized_keys = "<YOUR-PUBLIC-SSH-KEY>"
+root_pass       = "<YOUR-ROOT-PASSWORD>"
+
